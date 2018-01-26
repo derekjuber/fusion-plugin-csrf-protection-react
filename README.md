@@ -120,7 +120,7 @@ This plugin depends on an implementation of `fetch` registered on the standard `
 This plugin depends on a A Session plugin, such as the one provided by [`fusion-plugin-jwt`](https://github.com/fusionjs/fusion-plugin-jwt).
   The Session instance should expose a `get: (key: string) => string` and `set: (key: string, value: string) => string` methods.
 
-#### Instance Api
+#### Instance API
 
 ```js
 if (__BROWSER__) {
