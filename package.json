@@ -55,6 +55,7 @@
   "peerDependencies": {
     "fusion-core": "^1.0.0",
     "fusion-react": "^1.0.1",
+    "fusion-tokens": "^1.0.1",
     "react": "14.x - 16.x"
   },
   "scripts": {
